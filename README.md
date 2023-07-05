@@ -54,3 +54,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgments
 
 - [TypeScript](https://www.typescriptlang.org/) - Official TypeScript Documentatio
+- [Dave Gray](https://www.youtube.com/watch?v=gieEQFIfgYc) - Amazing typescript crash course 
